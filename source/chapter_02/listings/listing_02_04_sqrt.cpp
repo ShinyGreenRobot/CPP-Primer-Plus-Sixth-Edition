@@ -15,7 +15,7 @@ int main()
 
 	double area;
 
-    cout << "Enter the floor area, in square feet. of your home: ";
+    cout << "Enter the floor area, in square feet, of your home: ";
 	cin >> area;
 	double side;
 	side = sqrt(area);
