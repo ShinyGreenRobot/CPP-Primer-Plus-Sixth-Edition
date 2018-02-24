@@ -3,7 +3,7 @@
  * listing_04_05_instr3.cpp
  *
  * \brief
- * Reading more than one word by get concatenate.
+ * Reading more than one word by concatenate of two get.
  */
 #include <iostream>
 
