@@ -1,6 +1,6 @@
 /**
  * \file
- * listing_04_12_array_struct.cpp
+ * listing_04_13_array_struct.cpp
  *
  * \brief
  * An array of structures.
