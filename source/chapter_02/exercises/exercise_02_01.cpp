@@ -5,7 +5,6 @@
  * \brief
  * Displays a name and email-address.
  */
-
 #include <iostream>
 
 int main()
