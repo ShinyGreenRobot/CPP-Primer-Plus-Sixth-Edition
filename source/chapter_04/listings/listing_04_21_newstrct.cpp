@@ -6,8 +6,8 @@
  * Using new with a structure.
  */
 #include <iostream>
-struct inflatable
-// structure definition
+
+struct inflatable    // structure definition
 {
 	char name[20];
 	float volume;
