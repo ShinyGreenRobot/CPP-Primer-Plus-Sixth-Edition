@@ -1,20 +1,20 @@
 /**
  * \file
- * listing_05_11_compstr1.cpp
+ * listing_05_12_compstr2.cpp
  *
  * \brief
- * Comparing strings using arrays.
+ * Comparing strings using the class String.
  */
-#include <cstring>    // includes prototype for strcmp()
 #include <iostream>
+#include <string>	// string class
 
 int main()
 {
 	using namespace std;
 
-	char word[5] = "?ate";
+	string word = "?ate";
 
-	for (char ch = 'a'; strcmp(word, "mate"); ch++)
+	for (char ch = 'a'; word != "mate"; ch++)
 	{
 		cout << word << endl;
 		word[0] = ch;
