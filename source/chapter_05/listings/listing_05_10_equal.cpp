@@ -6,6 +6,7 @@
  * Equality versus assignment.
  */
 #include <iostream>
+
 int main()
 {
 	using namespace std;
