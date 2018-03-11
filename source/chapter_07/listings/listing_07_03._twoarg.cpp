@@ -34,7 +34,7 @@ int main()
 
 /**
  * \brief
- * Displays the character c n times.
+ * Displays the character \p c \p n times.
  *
  * \param[in] c
  * Character to be displayed a number of times.

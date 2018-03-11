@@ -45,12 +45,13 @@ void cheers(int n)
 
 /**
  * \brief
- * Calculates the cube of a number x, i.e. x is raised to the power of three.
+ * Gives the cube of a number \p x, or in other words calculates \p x multiplied
+ * by itself two times.
  *
  * \param[in] x
  * The number to be cubed.
  *
- * return
+ * \return
  * The cube of the parameter x.
  */
 double cube(double x)
