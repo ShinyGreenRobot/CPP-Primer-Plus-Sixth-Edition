@@ -41,7 +41,6 @@ int main()
  *
  * \param[in] n
  * Number of times to display the character.
- *
  */
 void n_chars(char c, int n)
 {
