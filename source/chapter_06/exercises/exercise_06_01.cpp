@@ -18,11 +18,11 @@ int main()
 	char c;
 
 	cin >> c;
-	while(c != '@')
+	while (c != '@')
 	{
-		if(isalpha(c))
+		if (isalpha(c))
 		{
-			if(islower(c))
+			if (islower(c))
 			{
 				cout << (char) toupper(c);
 			}
