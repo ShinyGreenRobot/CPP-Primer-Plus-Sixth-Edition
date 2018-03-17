@@ -1,6 +1,6 @@
 /**
  * \file
- * exercis_04_01.cpp
+ * exercise_04_01.cpp
  *
  * \brief
  * Requests and displays user information.
@@ -23,9 +23,11 @@ int main()
 	getline(cin, lastName);
 	cout << "What letter grade do you deserve? ";
 	cin.get(grade);
-	grade = grade + 1;    // adjust the grade downward, for example A becomes B
 	cout << "What is your age? ";
 	cin >> age;
+
+	// requested grade shall be adjusted downward, for example A becomes B
+	grade = grade + 1;
 
 	cout << "Name: " << lastName << ", " << firstName << endl;
 	cout << "Grade: " << grade << endl;
