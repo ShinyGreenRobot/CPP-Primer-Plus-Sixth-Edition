@@ -3,7 +3,10 @@
  * listing_10_01_stock00.h
  *
  * \brief
- * Stock class, version 00, interface.
+ * Stock class interface.
+ *
+ * \details
+ * Version 00.
  */
 #ifndef LISTING_10_01_STOCK00_H_
 #define LISTING_10_01_STOCK00_H_
