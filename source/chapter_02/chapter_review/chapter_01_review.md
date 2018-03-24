@@ -5,6 +5,19 @@
 
 The word module is not an official term but a C++ program can still coneptually be divided into modules in several different ways.  
 
-A program is frequently divided into several separate source files that are compiled separatly and then linked togheter. Each such module is known as a translation unit.
+A program is frequently divided into several separate source files that are compiled separatly and then linked togheter. Each such module is known as a translation unit.  
 
 Each source file is also generally divided into separate modules that are called functions.  
+
+## Question 3
+**What does the following preprocessor directive do?**
+
+```cpp
+#include <iostream>
+```
+
+This preprocessor directive will include the header file called iostream into the source file.  
+
+
+
+
