@@ -16,7 +16,7 @@ Each source file is also generally divided into separate modules that are called
 #include <iostream>
 ```
 
-This preprocessor directive will include the header file called iostream into the source file.  
+This preprocessor directive will include the contents of the header file called iostream into the source file.  
 
 
 
