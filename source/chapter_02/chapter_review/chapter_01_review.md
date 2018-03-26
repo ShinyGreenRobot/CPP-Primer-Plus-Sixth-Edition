@@ -32,4 +32,4 @@ instead of
 ```cpp
 std::cout << "Hello World!";
 ```
-Note that is considered bad practice to use this and similar statements that can lead to nasty bugs.   
+Note that is considered bad practice to use this and similar statements since it can lead to nasty bugs.  
